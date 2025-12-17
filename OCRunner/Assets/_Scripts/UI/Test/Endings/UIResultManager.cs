@@ -4,7 +4,7 @@ using UnityEngine;
 public class UIResultManager : MonoBehaviour
 {
     public static UIResultManager instance;
-    public TextMeshProUGUI resultText;
+    [SerializeField] private TextMeshProUGUI resultText;
 
     private void Awake()
     {
