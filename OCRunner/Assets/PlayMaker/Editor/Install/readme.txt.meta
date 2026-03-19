@@ -1,7 +1,7 @@
 fileFormatVersion: 2
 guid: 3713667d0426f1f4dbd7da9c5f576ea0
 timeCreated: 1458622682
-licenseType: Pro
+licenseType: Store
 TextScriptImporter:
   userData: 
   assetBundleName: 
@@ -10,6 +10,6 @@ AssetOrigin:
   serializedVersion: 1
   productId: 368
   packageName: Playmaker
-  packageVersion: 1.9.9p1
+  packageVersion: 1.9.9
   assetPath: Assets/PlayMaker/Editor/Install/readme.txt
-  uploadId: 829120
+  uploadId: 736611

@@ -2,7 +2,7 @@ using UnityEditor;
 using UnityEditor.Localization;
 using UnityEngine;
 
-public class EnfingsTableToolGen : MonoBehaviour
+public class EndingsTableToolGen : MonoBehaviour
 {
     // Se crea la herramienta
     [MenuItem("Tools/Generate Ending Entries")]
